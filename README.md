@@ -1,5 +1,5 @@
 # BackwardFacingStep
-This repository contain how to run Backward Facing Step using OpenFOAM !!!
+This repository contain how to run Backward Facing Step using OpenFOAM !!
 
 
 
